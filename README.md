@@ -88,4 +88,4 @@ No server required. Open directly in any browser.
 
 **Muhammad Umar Siddiqui**
 Master's student in International Information Systems — FAU Erlangen-Nürnberg
-[LinkedIn](https://www.linkedin.com/in/umar-sidd/) | [GitHub](https://github.com/umarsidiqi)
+[LinkedIn](https://www.linkedin.com/in/umar-sidd/) 
