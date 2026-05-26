@@ -1,6 +1,6 @@
 # Data Quality Monitoring Dashboard
 
-**Live Dashboard:** [View here](https://umarsidiqi.github.io/data-quality-monitoring-dashboard)
+**Live Dashboard:** [View here](https://umar-dq-dashboard.netlify.app)
 
 ![Dashboard Preview](dashboard_preview.png)
 
